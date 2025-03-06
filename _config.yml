@@ -1,0 +1,15 @@
+title: RV App Releases
+description: Release history and future plans for RV App
+baseurl: "/RV_releases"
+url: ""
+language: ko
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README.md
